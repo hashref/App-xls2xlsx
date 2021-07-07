@@ -2,4 +2,9 @@ name = "App-xls2xlsx"
 # badges = ["travis-ci.com"]
 module_maker="ModuleBuildTiny"
 static_install = "auto"
+license="perl_5"
+authors_from="lib/App/xls2xlsx.pm"
+[release]
+do_not_upload_to_cpan=true
+branch="main"
 

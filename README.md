@@ -1,22 +1,18 @@
 # NAME
 
-App::xls2xlsx - It's new $module
+App::xls2xlsx - Command line app for converting xls spreadsheets to xlsx spreasheets.
 
-# SYNOPSIS
+# VERSION
 
-    use App::xls2xlsx;
-
-# DESCRIPTION
-
-App::xls2xlsx is ...
-
-# LICENSE
-
-Copyright (C) David Betz.
-
-This library is free software; you can redistribute it and/or modify
-it under the same terms as Perl itself.
+version 0.1.0
 
 # AUTHOR
 
 David Betz <hashref@gmail.com>
+
+# COPYRIGHT
+
+This software is copyright (c) 2021 by David Betz
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.

@@ -1,0 +1,5 @@
+#!/usr/bin/env perl
+use strict;
+use App::xls2xlsx;
+App::xls2xlsx->run();
+
